@@ -12,5 +12,6 @@ A resource pack i made using this template: https://github.com/Love-and-Toleranc
 
 ### How to download / Install
 Click on the green "Code" Button at the top right
-Import into minecraft
+Take the folder INSIDE the zip file and put that in your resource packs folder
+Enjoy
 
